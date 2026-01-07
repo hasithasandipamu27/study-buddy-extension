@@ -1,1 +1,2 @@
-# study-buddy-extension
+# Study-Buddy-Extension
+Do you ever find yourself scrolling endlessly through your Facebook or Twitter feed when you should be working? We've all been there. Well, here's solution, Study Buddy extendion - a Chrome extension designed to help you stay focused during your productive hours. With this extension, you can set specific social media websites that will be blocked, so you can stay on task and get your work done. No more distractions, no more wasted time - just pure productivity.
